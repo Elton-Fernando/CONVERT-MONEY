@@ -15,7 +15,7 @@ body{
 .container{
     width: 375px;
     background-color: #F4F4F4;
-    margin: 0 auto; /* esse serve para centralizar na tela */
+    margin: 0 auto; 
     margin-top: 100px;
 
 }
@@ -29,7 +29,7 @@ h1{
     font-size: 24px;
     color: #F4F4F4;
     text-align: center;
-    padding-top: 25px; /*espaçamento interno*/
+    padding-top: 25px;
 }
 
 main{
@@ -51,12 +51,12 @@ select{
     border: 1px solid #BBBBBB;
     border-radius: 4px;
     height: 48px;
-    display: block; /* deixa cada um em sua linha*/
-    width: 100%; /* ele usa a linha inteira */
+    display: block; 
+    width: 100%;
     cursor: pointer;
     outline: none;
-    appearance: none; /* pra tirar a seta da caixa*/
-    padding-left: 16px; /* espaçamento interno esquerdo */
+    appearance: none;
+    padding-left: 16px; 
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.15);
     margin-top: 6px;
     margin-bottom: 24px;
@@ -67,10 +67,10 @@ input{
     border: 1px solid #BBBBBB;
     border-radius: 4px;
     height: 48px;
-    display: block; /* deixa cada um em sua linha*/
-    width: 94%; /* ele usa a linha inteira */
+    display: block;
+    width: 94%; 
     outline: none;
-    padding-left: 16px; /* espaçamento interno esquerdo */
+    padding-left: 16px; 
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.15);
     font-size: 18px;
     text-align: center;
@@ -100,7 +100,7 @@ button:active {
 
 section {
     border: 1px solid #1B83E2;
-    border-radius: 4px; /* para aredondar as pontas*/
+    border-radius: 4px;
 }
 
 .currency-container {
